@@ -1,0 +1,8 @@
+pandoc
+rasa_core
+rasa_nlu
+sklearn_crfsuite
+spacy
+sklearn
+flask
+
